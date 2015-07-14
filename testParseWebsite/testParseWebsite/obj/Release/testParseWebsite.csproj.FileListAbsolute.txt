@@ -1,0 +1,8 @@
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Release\testParseWebsite.exe.config
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Release\testParseWebsite.exe
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Release\testParseWebsite.pdb
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Release\testParseWebsite.exe
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Release\testParseWebsite.pdb
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Release\Newtonsoft.Json.dll
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Release\Newtonsoft.Json.xml
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Release\testParseWebsite.csprojResolveAssemblyReference.cache

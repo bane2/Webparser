@@ -1,0 +1,11 @@
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\testParseWebsite.exe.config
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\testParseWebsite.exe
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\testParseWebsite.pdb
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Debug\testParseWebsite.csprojResolveAssemblyReference.cache
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Debug\testParseWebsite.exe
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\obj\Debug\testParseWebsite.pdb
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bane2\Documents\Visual Studio 2013\Projects\testParseWebsite\testParseWebsite\bin\Debug\HtmlAgilityPack.xml
